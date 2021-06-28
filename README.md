@@ -12,5 +12,11 @@ Verilog Implementation of Run Length Encoding for RGB Image Compression
 ## Author
 **Rabist** - view on [LinkedIn](https://www.linkedin.com/in/rabist)
 
+## Details
+- **Course:** Computer-Aided Design of Digital Systems - Undergraduate
+- **Teacher:** [Dr. Hadi Safdarkhani](https://www.linkedin.com/in/hadi-safdarkhani-046a437a)
+- **Univ:** Yazd University
+- **Semester:** Spring 1399
+
 ## License
 Licensed under [MIT](LICENSE).
